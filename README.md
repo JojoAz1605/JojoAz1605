@@ -1,4 +1,4 @@
-<h1 align="center">HELLO BANDE DE CONS, JE SUIS Joris MASSON</h1>
+<h1 align="center">HELLO BANDE DE GENS TRÈS SYMPATHIQUES, JE SUIS Joris MASSON</h1>
 <h3 align="center">Je suis un petit con de 20 ans aimant la programmation depuis la 5ème.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jojoaz1605" alt="jojoaz1605" /></a> </p>
